@@ -10,9 +10,9 @@
   @vite('resources/css/app.css')
   @vite('resources/js/javascript.js')
 </head>
-<body class="bg-slate-900">
+<body class="bg-black">
     
-   
+   <x-header/>
 
     {{$slot}}
     
