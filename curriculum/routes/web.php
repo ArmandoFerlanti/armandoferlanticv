@@ -16,3 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+use App\http\Controllers\viste;
+
+Route::get('/soccorritore',[viste::class, 'soccorritore'])->name('soccorritore');
+
+Route::get('/',[viste::class, 'developer'])->name('developer');
