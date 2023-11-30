@@ -18,4 +18,3 @@
 
 
 
-{{ asset('immagini/foto.jpg')}}

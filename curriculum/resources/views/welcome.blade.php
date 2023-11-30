@@ -3,8 +3,12 @@
 
 
 <x-main>
+  <x-header/>
 
-  <h1 class="text-3xl font-serif text-center animate-pulse mt-5 text-orange-500">
-    ATTENZIONE: SITO IN COSTRUZIONE
+  <div>
+    <h1 class="text-3xl font-serif text-center animate-pulse mt-5 text-orange-500">
+      SITO IN COSTRUZIONE
+  </div>
+  
 
 </x-main>
