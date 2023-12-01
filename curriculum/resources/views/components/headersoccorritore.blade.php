@@ -1,3 +1,6 @@
+
+
+
 <div id="header" class="bg-white w-full h-40 sm:w-full md:w-full lg:w-full xl:w-full 2xl:w-full flex items-center gap-6 sm:gap-36 md:gap-40 lg:gap-96 border-red-600 border-b-4">
 
     <div id="foto-profilo" class="bg-black w-24 h-24 mt-4 ml-5 rounded-full xl:w-32 xl:h-32 md:w-28 md:h-28">
@@ -10,4 +13,20 @@
     </div>
 
 
+
+    
+
+
+
+
+
+
+
 </div>
+
+              <div id="contenitore-intestazione" class="bg-white w-full h-48 flex-col flex items-center justify-center ">
+          
+                 <div id="intestazione" class="bg-whiye w-5/6  h-20 text-center m-auto flex items-center justify-center text-2xl font-extrabold text-red-600">
+                          RESPONSABILE OPERAZIONI DI SOCCORSO IN QUOTA E SPAZI CONFINATI
+                  </div>
+              </div>
