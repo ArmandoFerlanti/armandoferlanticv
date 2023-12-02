@@ -15,8 +15,11 @@
   
       
     
-
+  
          {{$slot}}
+
+        
+
 
          <div class="flex w-full justify-center gap-4  ">
             <div>
