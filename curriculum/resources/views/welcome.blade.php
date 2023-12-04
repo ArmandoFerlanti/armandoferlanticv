@@ -6,6 +6,7 @@
   <x-header/>
   <x-contatti/>
   <x-presentazione1/>
+  <x-competenze/>
 
   <div>
     <h1 class="text-3xl font-serif text-center animate-pulse mt-5 text-orange-500">
