@@ -24,9 +24,9 @@
 
 </div>
 
-              <div id="contenitore-intestazione" class="bg-white w-full h-48 flex-col flex items-center justify-center ">
+              <div id="contenitore-intestazione" class="bg-red-600 w-full h-48 flex-col flex items-center justify-center ">
           
-                 <div id="intestazione" class="bg-whiye w-5/6  h-20 text-center m-auto flex items-center justify-center text-2xl font-extrabold text-red-600">
+                 <div id="intestazione" class="bg-red-600 w-5/6  h-20 text-center m-auto flex items-center justify-center text-2xl font-extrabold text-white">
                           RESPONSABILE OPERAZIONI DI SOCCORSO IN QUOTA E SPAZI CONFINATI
                   </div>
               </div>

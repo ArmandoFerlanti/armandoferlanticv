@@ -14,11 +14,12 @@
 </div>
 
 
-        <div id="contenitore-intestazione" class="bg-white w-full h-48 flex-col flex items-center justify-center ">
-          
-            <div id="intestazione" class="bg-whiye w-5/6  h-20 text-center m-auto flex items-center justify-center text-2xl font-mono text-blue-600">
+<div id="contenitore-intestazione" class="bg-blue-600 w-full h-48 flex-col flex items-center justify-center border-blue-600 border-b-4">
+
+  <div id="intestazione" class="bg-blue-600 w-5/6  h-20 text-center m-auto flex items-center justify-center text-2xl font-mono text-white ">
              FULL STACK WEB DEVELOPER
-        </div>
+  </div>
+</div>
 
 
 

@@ -4,6 +4,7 @@
 
 <x-main>
   <x-header/>
+  <x-contatti/>
   <x-presentazione1/>
 
   <div>
