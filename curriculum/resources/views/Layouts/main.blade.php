@@ -9,8 +9,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   @vite('resources/css/app.css')
   @vite('resources/js/javascript.js')
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <title>Document</title>
 </head>
-<body class="bg-black">
+<body>
     
   
       
@@ -21,7 +23,7 @@
         
 
 
-         <div class="flex w-full justify-center gap-4  ">
+         <div class="flex w-full justify-center gap-4 bg-black ">
             <div>
               <a href="{{ route('developer') }}"><button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-8">developer</button></a>
             </div>
