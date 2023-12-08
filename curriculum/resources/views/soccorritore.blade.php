@@ -13,5 +13,5 @@
       </div>
    
 
-
+<x-button2/>
 </x-main>
