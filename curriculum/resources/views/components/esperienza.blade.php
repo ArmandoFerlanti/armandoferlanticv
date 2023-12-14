@@ -25,11 +25,31 @@
               </div>
 
                
-              <div id="contenitore immagini" class="flex flex-col justify-center m-auto lg:flex-row">
-                <div class="w-full h-64 bg-black mt-5  object-cover  lg:m-3"><img src="{{asset('immagini/IMG_8637.jpeg')}}" alt="io"></div>
-                <div class="w-full h-64 bg-black mt-5 object-cover lg:m-3" ><img src="{{asset('immagini/IMG_2498.jpeg')}}" alt="confinato"></div>
-                <div class="w-full h-64 bg-black mt-5  object-cover lg:m-3"><img src="{{asset('immagini/IMG_2224.jpeg')}}" alt="esplosione"></div>
-            </div>
+             
+        
+    <div id="contenitore-immagini" class="flex flex-col justify-center m-auto lg:flex-row">
+      <div class="w-full h-64 bg-black mt-5 object-cover lg:m-3 transition-transform transform hover:scale-105">
+        <img src="{{asset('immagini/IMG_8637.jpeg')}}" alt="io">
+      </div>
+      <div class="w-full h-64 bg-black mt-5 object-cover lg:m-3 transition-transform transform hover:scale-105">
+        <img src="{{asset('immagini/IMG_2498.jpeg')}}" alt="confinato">
+      </div>
+      <div class="w-full h-64 bg-black mt-5 object-cover lg:m-3 transition-transform transform hover:scale-105">
+        <img src="{{asset('immagini/IMG_2224.jpeg')}}" alt="esplosione">
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
               
               
               

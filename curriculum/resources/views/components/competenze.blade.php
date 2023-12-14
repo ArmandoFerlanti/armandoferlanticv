@@ -2,7 +2,7 @@
 
 <div id="contenitore-sezione-competenze" class="w-full h-auto bg-white flex flex-col justify-center items-center mt-10 ">
 
-  <div id="titolo-competenze" class="text-center my-5 font-thin text-xl">LINGUAGGI E FRAMEWORKS CONOSCIUTI</div>
+  <div id="titolo-competenze" class="text-center my-5 font-thin text-2xl">LINGUAGGI E FRAMEWORKS CONOSCIUTI</div>
 
               <div id="contenitore-competenze" class="w-4/5 h-auto bg-white flex flex-row justify-center">
 
@@ -17,7 +17,7 @@
                          
                         </div>
         
-                                <div id="contenitore-titoli" class="bg-white font-mono text-blue-600">
+                                <div id="contenitore-titoli" class="bg-white font-mono text-blue-600 text-2xl">
 
                                   <div class="mt-6 ml-2 w-14 h-14">html</div>
                                   <div class="mt-2 ml-2 w-14 h-14">css</div>

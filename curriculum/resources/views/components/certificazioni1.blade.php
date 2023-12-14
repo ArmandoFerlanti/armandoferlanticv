@@ -1,7 +1,7 @@
 
 <div id="container-sezione-certificazioni" class="w-full h-auto mt-10">
 
-    <div id="titolo-certificazioni" class="text-center font-thin text-xl p-5">
+    <div id="titolo-certificazioni" class="text-center font-thin text-2xl p-5">
             CERTIFICAZIONI E COMPETENZE
     </div>
 
@@ -20,11 +20,11 @@
                 <div id="contenitore-competenzee" class="w-5/6 h-auto text-justify p-5 m-auto font-extralight text-xl">
                  
                       
-                  <div class="m-auto p-5">
+                  <div class="m-auto p-5 text-2xl">
                     Questa esperienza mi ha permesso di acquisire le seguenti competenze:
                   </div>
                   <div>
-                    <ul class="list-disc p-2">
+                    <ul class="list-disc p-2 text-2xl">
                       <li>Conoscenza di HTML5 e su come strutturare un sito web.</li>
                       <li>Conoscenza di CSS e su come utilizzare le sue classi e i suoi selettori per rendere graficamente più accattivante un sito.</li>
                       <li>Ho acquisito la conoscenza per implementare e utilizzare il framework Bootstrap nei miei progetti.</li>
