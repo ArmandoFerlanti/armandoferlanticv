@@ -8,7 +8,7 @@
 
             <div id="contenitore-esperienza" class="flex flex-col-reverse w-5/6 m-auto mt-10 ">
 
-                          <div id="contenitore-loghi-aziende" class="w-full h-auto">
+                          <div id="contenitore-loghi-aziende" class="w-full h-auto mt-10">
                                   <div><img src="{{asset('immagini/eni.jpeg')}}" alt="eni" class="w-16 h-16 m-auto p-1 hover:animate-bounce"></div>
                                   <div><img src="{{asset('immagini/ep.webp')}}" alt="ep" class="w-24 h-24 m-auto p-1 hover:animate-bounce"></div>
                                   <div><img src="{{asset('immagini/sonatrach.webp')}}" alt="sonatrach" class="w-20 h-20 m-auto hover:animate-bounce"></div>

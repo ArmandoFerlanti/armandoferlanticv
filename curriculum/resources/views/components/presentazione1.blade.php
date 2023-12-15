@@ -1,10 +1,10 @@
 <div id="contenitore-presentazione" class="bg-white w-full h-auto flex items-center justify-center flex-col mt-10 ">
 
-    <div id="titolo-presentazione" class="font-thin text-2xl mb-3">
+    <div id="titolo-presentazione" class="font-thin text-2xl mb-3 mt-5">
       PRESENTAZIONE
     </div>
 
-    <div class="w-5/6 h-auto text-justify font-extralight text-2xl">
+    <div class="w-5/6 h-auto text-justify font-extralight text-2xl mt-5">
       <p>
         Il mio nome è Armando Ferlanti e sono un ragazzo di 33 anni. Dal 2015 mi occupo di soccorso in quota e spazi confinati, ma da circa un anno mi sono dedicato a diventare un programmatore informatico. Questo lato della presentazione, oltre a descrivere la persona che sono, punta sull'evidenziare le caratteristiche della mia personalità che, secondo me, meglio si sposano con la programmazione informatica.
 

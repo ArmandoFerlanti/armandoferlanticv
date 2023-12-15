@@ -2,12 +2,12 @@
 
 
 <div id="header" class=" w-full h-auto  flex  border-red-600 border-b-4">
-  <div id="foto-profilo" class="bg-black w-24 h-24 mt-4 ml-5 rounded-full">
+  <div id="foto-profilo" class=" w-24 h-24 mt-4 ml-5 rounded-full">
       <img src="{{asset('immagini/foto.jpg')}}" alt="foto-profilo" class="w-full h-full object-cover rounded-full">
   </div>
 
-  <div id="logo" class="bg-black  m-auto">
-     <img src="{{asset('immagini/logo-soccorritore.png')}}" alt="logo" class=" w-56 h-32 m-auto ">
+  <div id="logo" class="  m-auto">
+     <img src="{{asset('immagini/logo-soccorritore.png')}}" alt="logo" class=" w-56 h-32 m-auto lg:mr-36 ">
   </div>
 </div>
 

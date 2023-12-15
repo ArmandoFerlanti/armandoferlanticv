@@ -1,6 +1,6 @@
 <div id="contenitore-presentazione" class="bg-white w-full h-auto flex items-center justify-center flex-col  ">
 
-    <div id="titolo-presentazione" class="font-thin-600 text-2xl mt-10 mb-3">
+    <div id="titolo-presentazione" class="font-mono text-2xl mt-10 mb-3">
       PRESENTAZIONE
     </div>
 

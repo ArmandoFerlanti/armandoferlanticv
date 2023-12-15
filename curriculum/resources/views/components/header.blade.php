@@ -1,11 +1,11 @@
 
 <div id="header" class=" w-full h-auto  flex  border-blue-600 border-b-4">
-  <div id="foto-profilo" class="bg-black w-24 h-24 mt-4 ml-5 rounded-full">
+  <div id="foto-profilo" class="bg-black w-24 h-24 mt-16 ml-5 rounded-full lg:mt-14">
       <img src="{{asset('immagini/foto.jpg')}}" alt="foto-profilo" class="w-full h-full object-cover rounded-full">
   </div>
 
-  <div id="logo" class="bg-black  m-auto">
-     <img src="{{asset('immagini/logo.png')}}" alt="logo" class=" w-56 h-42 m-auto ">
+  <div id="logo" class="  m-auto ">
+     <img src="{{asset('immagini/logo.png')}}" alt="logo" class=" w-56 h-42 m-auto lg:mr-28 md:mr-40 ">
   </div>
 </div>
 
