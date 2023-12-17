@@ -6,7 +6,7 @@
 
     <div class="w-5/6 h-auto text-justify font-extralight text-2xl">
       <p>
-        Mi chiamo Armando Ferlanti e ho 33 anni. Dal 2015 mi occupo di soccorso in quota e spazi confinati, e dal 2023 sono stato nominato preposto e responsabile delle operazioni di soccorso. Nel corso della mia carriera quasi decennale, ho affrontato diverse sfide che, oltre ad arricchire il mio bagaglio tecnico personale, hanno contribuito a formare la mia personalità.
+        Mi chiamo Armando Ferlanti e ho 31 anni. Dal 2015 mi occupo di soccorso in quota e spazi confinati, e dal 2023 sono stato nominato preposto e responsabile delle operazioni di soccorso. Nel corso della mia carriera quasi decennale, ho affrontato diverse sfide che, oltre ad arricchire il mio bagaglio tecnico personale, hanno contribuito a formare la mia personalità.
 
         Come soccorritore tecnico industriale, ho avuto modo di vivere esperienze varie, fornendo assistenza sia a centinaia di metri da terra sia in spazi angusti e claustrofobici.
 
